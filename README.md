@@ -156,6 +156,6 @@ The model predicts visible facial-expression categories and should not be interp
 - Evaluate the model on unseen images and webcam inputs.
 - Deploy the trained model through a Streamlit application.
 
-## 📜 Disclaimer
+##  Disclaimer
 
 This project is intended for educational and research purposes. Predictions may be inaccurate and should not be used as the sole basis for psychological, medical, employment, or other consequential decisions.

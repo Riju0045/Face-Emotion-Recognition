@@ -33,6 +33,7 @@ The model classifies facial images into eight categories:
 ##  Dataset Description
 
 The dataset contains facial images organized into separate training and testing directories, with subdirectories corresponding to the emotion labels.
+Data: https://drive.google.com/file/d/13WQb43sGgL_hwxcQ88cL8E-jywTcjiQ3/view?usp=drive_link
 
 | Parameter | Description |
 |---|---|

@@ -1,5 +1,4 @@
 # Facial Expression Recognition
-# Facial Emotion Recognition Using Deep Learning
 
 ##  Project Overview
 
